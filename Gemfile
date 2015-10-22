@@ -37,5 +37,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
-
+# Coffe script downgrade 1.8.0
 gem 'coffee-script-source', '1.8.0'
+# Twitter bootstrap template by Sey Hunak
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
