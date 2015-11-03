@@ -43,3 +43,5 @@ gem 'coffee-script-source', '1.8.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
 gem 'font-awesome-rails'
+
+gem 'simple_form'
